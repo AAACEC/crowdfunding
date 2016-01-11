@@ -1,0 +1,31 @@
+section {
+	padding: 4rem 0;
+
+	&:first-of-type {
+		padding-top: 200px;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		text-align: center;
+		line-height: $line-height;
+	}
+
+	h1 {
+		font-size: 4.75rem;
+	}
+
+	h2 {
+		font-size: 3rem;
+	}
+
+	.img-main {
+		height: 256px;
+		margin: 0 auto 1rem;
+	}
+}
+
