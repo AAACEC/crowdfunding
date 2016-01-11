@@ -27,4 +27,13 @@ hr {
 			background-color: $brand-success;
 		}
 	}
+
+	&.star-primary {
+		border-color: $headings-color;
+
+		&:after {
+			color: $headings-color;
+			background-color: $body-bg;
+		}
+	}
 }
