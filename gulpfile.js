@@ -124,4 +124,7 @@ gulp.task('watch', () => {
 	livereload.listen({ basePath: 'dist' });
 });
 
-gulp.task('default', ['webserver', 'styles', 'scripts', 'templates', 'images', 'watch']);
+// Build
+gulp.task('build', ['styles', 'scripts', 'templates', 'images']);
+
+gulp.task('default', ['build', 'webserver', 'watch']);
