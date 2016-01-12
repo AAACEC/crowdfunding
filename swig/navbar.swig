@@ -9,7 +9,7 @@
 		<div class="collapse navbar-toggleable-sm js-collapse">
 			<ul class="nav navbar-nav nav-pills">
 				<li class="nav-item"><a href="#a-campanha" class="nav-link active">A Campanha</a></li>
-				<li class="nav-item"><a href="#" class="nav-link">Test2</a></li>
+				<li class="nav-item"><a href="#objetivos" class="nav-link">Objetivos</a></li>
 				<li class="nav-item"><a href="#" class="nav-link">Test3</a></li>
 			</ul>
 		</div>
