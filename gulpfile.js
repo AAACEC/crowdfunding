@@ -68,7 +68,10 @@ gulp.task('scripts', ['lint'], () => {
 	return gulp.src(vendor.scripts.concat(['js/**/*.js']))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
-		.pipe(babel({ presets: [babelES2015, babelStage2] }))
+		.pipe(babel({
+			presets: [babelES2015, babelStage2],
+			compact: false,
+		}))
 		.pipe(uglify())
 		.pipe(concat('crowdfunding.min.js'))
 		.pipe(sourcemaps.write('.'))
