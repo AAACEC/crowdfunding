@@ -42,7 +42,7 @@ gulp.task('webserver', () => {
 });
 
 gulp.task('styles', () => {
-	return gulp.src(['sass/styles.scss'].concat(vendor.styles))
+	return gulp.src(vendor.styles.concat(['sass/styles.scss']))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
 		.pipe(sass({ outputStyle: 'expanded' }))
@@ -65,7 +65,7 @@ gulp.task('lint', () => {
 
 // Concatenate & Minify JS
 gulp.task('scripts', ['lint'], () => {
-	return gulp.src(['js/**/*.js'].concat(vendor.scripts))
+	return gulp.src(vendor.scripts.concat(['js/**/*.js']))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
 		.pipe(babel({ presets: [babelES2015, babelStage2] }))
