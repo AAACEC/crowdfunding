@@ -1,11 +1,13 @@
 'use strict';
 
-let st = require('st'),
+let _ = require('lodash'),
+	st = require('st'),
 	http = require('http'),
 	gulp = require('gulp'),
 	swig = require('gulp-swig'),
 	sass = require('gulp-sass'),
 	babel = require('gulp-babel'),
+	gulpif = require('gulp-if'),
 	eslint = require('gulp-eslint'),
 	uglify = require('gulp-uglify'),
 	rename = require('gulp-rename'),
@@ -29,6 +31,12 @@ const vendor = {
 		'node_modules/odometer/odometer-theme-minimal.css',
 	],
 };
+
+function isVendorScript(f) {
+	return _.any(vendor.scripts, (v) => {
+		return f.path.replace(/\\/g, '/').endsWith(v);
+	});
+}
 
 // Server - listed on localhost:8080
 gulp.task('webserver', () => {
@@ -68,10 +76,10 @@ gulp.task('scripts', ['lint'], () => {
 	return gulp.src(vendor.scripts.concat(['js/**/*.js']))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
-		.pipe(babel({
+		.pipe(gulpif(_.negate(isVendorScript), babel({
 			presets: [babelES2015, babelStage2],
 			compact: false,
-		}))
+		})))
 		.pipe(uglify())
 		.pipe(concat('crowdfunding.min.js'))
 		.pipe(sourcemaps.write('.'))
