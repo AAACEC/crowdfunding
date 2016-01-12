@@ -23,5 +23,8 @@
     "odometer": "^0.4.7",
     "st": "^1.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": "^5.4.0 || >= 0.10.0"
+  }
 }
