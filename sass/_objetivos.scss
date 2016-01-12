@@ -1,0 +1,51 @@
+#objetivos {
+	.row > div {
+		align-self: center;
+	}
+}
+
+.goal {
+	margin-bottom: 1.5rem;
+}
+
+.goal-content {
+	display: flex;
+
+	> img {
+		width: 150px;
+
+		margin: .25rem .75rem;
+	}
+
+	> p {
+		text-align: justify;
+	}
+
+	> * {
+		align-self: flex-start;
+	}
+}
+
+@include media-breakpoint-down(xs) {
+	.goal-content {
+		flex-direction: column;
+
+		> img {
+			width: 75%;
+		}
+
+		> * {
+			align-self: center;
+		}
+	}
+}
+
+.goal-status {
+	margin-bottom: 1.5rem;
+
+	.goal-display .odometer-inside {
+	  .odometer-digit:last-child {
+		  display: none
+		}
+	}
+}

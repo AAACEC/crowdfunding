@@ -25,6 +25,9 @@ let _ = require('lodash'),
 const vendor = {
 	scripts: [
 		'node_modules/odometer/odometer.js',
+		'node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js',
+		'node_modules/scrollmagic/scrollmagic/uncompressed/plugins/jquery.ScrollMagic.js',
+		'node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js',
 	],
 
 	styles: [
