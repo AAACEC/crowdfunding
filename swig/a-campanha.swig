@@ -1,7 +1,7 @@
 <section class="bg-success" id="a-campanha">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-12">
+			<div class="col-xs-12">
 				<img class="img-fluid img-circle img-main" src="/img/hands-coins.svg">
 				<h1>A Campanha</h1>
 				<hr class="star-light"></hr>
