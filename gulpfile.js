@@ -42,7 +42,7 @@ gulp.task('webserver', () => {
 });
 
 gulp.task('styles', () => {
-	return gulp.src(vendor.styles.concat(['sass/styles.scss']))
+	return gulp.src(['sass/styles.scss'].concat(vendor.styles))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
 		.pipe(concat('crowdfunding.scss'))
@@ -66,7 +66,7 @@ gulp.task('lint', () => {
 
 // Concatenate & Minify JS
 gulp.task('scripts', ['lint'], () => {
-	return gulp.src(vendor.scripts.concat(['js/*.js']))
+	return gulp.src(['js/*.js'].concat(vendor.scripts))
 		.pipe(plumber())
 		.pipe(sourcemaps.init())
 		.pipe(babel({ presets: [babelES2015, babelStage2] }))
