@@ -11,8 +11,12 @@
 		}
 	}
 
-	.navbar-brand.nav-link {
-		transition: font-size .3s, color .3s;
+	.navbar-brand {
+		margin-right: 0;
+
+		&.nav-link {
+			transition: font-size .3s, color .3s;
+		}
 	}
 }
 
@@ -38,8 +42,7 @@
 
 @include media-breakpoint-down(sm) {
 	.navbar	{
-		padding-top: 0;
-		padding-bottom: 0;
+		padding: 0;
 
 		.collapse {
 			padding-bottom: 10px;
