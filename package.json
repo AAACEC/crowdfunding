@@ -24,7 +24,8 @@
     "lodash": "^3.10.1",
     "odometer": "^0.4.7",
     "scrollmagic": "^2.0.5",
-    "st": "^1.1"
+    "st": "^1.1",
+    "yargs": "^3.31.0"
   },
   "dependencies": {},
   "engines": {

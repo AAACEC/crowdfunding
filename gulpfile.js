@@ -2,6 +2,7 @@
 
 let _ = require('lodash'),
 	st = require('st'),
+	argv = require('yargs').argv,
 	http = require('http'),
 	gulp = require('gulp'),
 	swig = require('gulp-swig'),
@@ -27,7 +28,6 @@ const vendor = {
 		'node_modules/odometer/odometer.js',
 		'node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js',
 		'node_modules/scrollmagic/scrollmagic/uncompressed/plugins/jquery.ScrollMagic.js',
-		'node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js',
 	],
 
 	styles: [
@@ -39,6 +39,10 @@ function isVendorScript(f) {
 	return _.any(vendor.scripts, (v) => {
 		return f.path.replace(/\\/g, '/').endsWith(v);
 	});
+}
+
+if (!argv.production) {
+	vendor.scripts.push('node_modules/scrollmagic/scrollmagic/uncompressed/plugins/debug.addIndicators.js');
 }
 
 // Server - listed on localhost:8080
@@ -58,7 +62,7 @@ gulp.task('styles', () => {
 		.pipe(sourcemaps.init())
 		.pipe(sass({ outputStyle: 'expanded' }))
 		.pipe(autoprefixer())
-		.pipe(cssnano())
+		.pipe(gulpif(argv.production, cssnano()))
 		.pipe(concat('crowdfunding.min.css'))
 		.pipe(sourcemaps.write('.'))
 		.pipe(gulp.dest('dist/css'))
@@ -83,7 +87,7 @@ gulp.task('scripts', ['lint'], () => {
 			presets: [babelES2015, babelStage2],
 			compact: false,
 		})))
-		.pipe(uglify())
+		.pipe(gulpif(argv.production, uglify()))
 		.pipe(concat('crowdfunding.min.js'))
 		.pipe(sourcemaps.write('.'))
 		.pipe(livereload())
@@ -95,12 +99,12 @@ gulp.task('scripts', ['lint'], () => {
 gulp.task('images', () => {
 	return gulp.src('img/**/*')
 		.pipe(plumber())
-		.pipe(imagemin({
+		.pipe(gulpif(argv.production, imagemin({
 			optimizationLevel: 3,
 			progressive: true,
 			interlaced: true,
 			multipass: true,
-		}))
+		})))
 		.pipe(gulp.dest('dist/img'))
 		.pipe(livereload())
 		.pipe(notify({ message: 'Images task complete', onLast: true }));
