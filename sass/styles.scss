@@ -3,6 +3,8 @@
 @import "node_modules/bootstrap/scss/bootstrap-flex";
 @import "node_modules/odometer/themes/odometer-theme-minimal";
 
+@import "base";
+
 @import "navbar";
 @import "section";
 
@@ -11,8 +13,3 @@
 @import "a-campanha";
 @import "objetivos";
 
-h1, h2, h3, h4, h5, h6 {
-    text-transform: uppercase;
-    font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 700;
-}
