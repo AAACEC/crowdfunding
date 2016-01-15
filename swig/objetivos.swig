@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-xs-12">
 				<h2>Objetivos</h1>
-				<hr class="star-primary"></hr>
+				<hr class="star-primary">
 			</div>
 			<div class="col-xs-12 col-lg-6">
 				<div class="goal">

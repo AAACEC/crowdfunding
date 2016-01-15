@@ -4,7 +4,7 @@
 			<div class="col-xs-12">
 				<img class="img-fluid img-circle img-main" src="/img/hands-coins.svg">
 				<h1>A Campanha</h1>
-				<hr class="star-light"></hr>
+				<hr class="star-light">
 				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
