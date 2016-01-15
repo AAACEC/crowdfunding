@@ -77,7 +77,7 @@
 							<h4 class="card-title">Loko II</h4>
 							<h5 class="card-value text-muted">R$ 200,00</h5>
 							<p class="card-text">
-								Ganhe dois chaveiros da AAACEC e a chance de escolher alguém &emdash; inclusive você mesmo &emdash; para receber uma dança sensual do <a href="//fb.com/r.mobis">Phapha</a>. O ato será filmado e postado nas redes sociais.
+								Ganhe dois chaveiros da AAACEC e a chance de escolher alguém &mdash; inclusive você mesmo &mdash; para receber uma dança sensual do <a href="//fb.com/r.mobis">Phapha</a>. O ato será filmado e postado nas redes sociais.
 							</p>
 						</div>
 						<div class="card-bottom">
