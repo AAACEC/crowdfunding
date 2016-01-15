@@ -1,0 +1,45 @@
+.card-flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+	.card-title {
+		margin-bottom: 0;
+	}
+
+	.card {
+		@include media-breakpoint-up(lg) {
+			flex: 0 0 calc(25% - .6125rem);
+		}
+
+		@include media-breakpoint-down(md) {
+			flex: 0 0 calc(50% - .6125rem);
+		}
+
+		color: $gray-dark;
+
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			line-height: 1;
+		}
+	}
+
+	.card-top {
+		.card-text {
+			margin-bottom: 1.25rem;
+		}
+	}
+}
+
+.card-text {
+	text-align: justify;
+	font-size: .8rem;
+}
