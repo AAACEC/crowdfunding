@@ -16,7 +16,7 @@
 								</p>
 							</div>
 							<div class="card-bottom">
-								<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+								<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 								<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 							</div>
 					</div>
@@ -29,7 +29,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -42,7 +42,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -55,7 +55,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -68,7 +68,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -81,7 +81,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -94,7 +94,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -107,7 +107,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -120,7 +120,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -133,7 +133,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -146,7 +146,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
@@ -159,7 +159,7 @@
 							</p>
 						</div>
 						<div class="card-bottom">
-							<button type="button" class="btn btn-primary pull-xs-right	">Doar</button>
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
 							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
 						</div>
 					</div>
