@@ -1,0 +1,12 @@
+@keyframes heartbeat {
+	00% { transform: scale(1); }
+	10% { transform: scale(1.3); }
+	20% { transform: scale(1); }
+	30% { transform: scale(1.3); }
+	50% { transform: scale(1); }
+}
+
+.fa-heart {
+	animation: heartbeat 1.5s ease 0s infinite normal;
+	color: red;
+}

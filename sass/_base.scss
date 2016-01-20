@@ -4,10 +4,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-.fa-heart {
-	color: red;
-}
-
 @include media-breakpoint-down(xs) {
 	html {
 		font-size: 14px;
