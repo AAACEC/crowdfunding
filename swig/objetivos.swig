@@ -9,7 +9,7 @@
 				<div class="goal">
 					<h4>Reforma do 100Nossão</h4>
 					<div class="goal-content">
-						<img src="http://lorempixel.com/600/600" alt="" class="img-fluid img-rounded">
+						<img src="/img/100nossao.png" alt="" class="img-fluid img-rounded">
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -24,7 +24,7 @@
 				<div class="goal">
 					<h4>Confecção do Bandeirão</h4>
 					<div class="goal-content">
-						<img src="http://lorempixel.com/600/600?" alt="" class="img-fluid img-rounded">
+						<img src="/img/bandeirao.png" alt="" class="img-fluid img-rounded">
 						<p>
 							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
