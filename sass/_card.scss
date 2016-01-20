@@ -8,12 +8,18 @@
 	}
 
 	.card {
-		@include media-breakpoint-up(lg) {
-			flex: 0 0 calc(25% - .6125rem);
+		@include media-breakpoint-down(md) {
+			flex: 0 0 calc(100%/2 - .6125rem);
 		}
 
-		@include media-breakpoint-down(md) {
-			flex: 0 0 calc(50% - .6125rem);
+		@include media-breakpoint-up(md) {
+			@include media-breakpoint-down(lg) {
+				flex: 0 0 calc(100%/3 - .6125rem);
+			}
+		}
+
+		@include media-breakpoint-up(lg) {
+			flex: 0 0 calc(100%/4 - .6125rem);
 		}
 
 		color: $gray-dark;
