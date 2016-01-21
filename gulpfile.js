@@ -28,6 +28,8 @@ const vendor = {
 		'node_modules/odometer/odometer.js',
 		'node_modules/scrollmagic/scrollmagic/uncompressed/ScrollMagic.js',
 		'node_modules/scrollmagic/scrollmagic/uncompressed/plugins/jquery.ScrollMagic.js',
+		'node_modules/gumshoe/dist/js/gumshoe.js',
+		'node_modules/smooth-scroll/dist/js/smooth-scroll.js',
 	],
 
 	styles: [
