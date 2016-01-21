@@ -4,7 +4,7 @@
     font-weight: 700;
 
     &.bg-primary .nav-link {
-		transition: color .3s;
+		transition: color .3s, background-color .5s;
 
 		&:hover {
 			color: $brand-success;
