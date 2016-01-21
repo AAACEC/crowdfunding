@@ -49,7 +49,7 @@
 					<div class="card card-block">
 						<div class="card-top">
 							<h4 class="card-title">Festa do Colar IV</h4>
-							<h5 class="card-value text-muted">R$ 100,00</h5>
+							<h5 class="card-value text-muted">R$ 75,00</h5>
 							<p class="card-text">
 								Ganhe um ingresso para a Choppada com direito de, a qualquer momento, escolher uma musica para tocar e dançar em cima do 100Nossão.
 							</p>
