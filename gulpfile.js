@@ -31,6 +31,7 @@ const vendor = {
 		'node_modules/gumshoe/dist/js/gumshoe.js',
 		'node_modules/smooth-scroll/dist/js/smooth-scroll.js',
 		'node_modules/bootstrap/dist/js/bootstrap.js',
+		'node_modules/tether/dist/js/tether.js',
 	],
 
 	styles: [
