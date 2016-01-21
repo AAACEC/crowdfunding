@@ -1,7 +1,9 @@
 (function () {
 	'use strict';
 
-	smoothScroll.init();
+	smoothScroll.init({
+		offset: -32,
+	});
 	gumshoe.init();
 })();
 

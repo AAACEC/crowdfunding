@@ -1,5 +1,5 @@
-<nav data-gumshoe-header class="navbar navbar-fixed-top navbar-dark bg-primary">
-	<div data-scroll-header class="container">
+<nav data-gumshoe-header data-scroll-header class="navbar navbar-fixed-top navbar-dark bg-primary">
+	<div class="container">
 		<div class="navbar-header">
 			<a href="#" class="navbar-brand nav-link">AAACEC Crowdfunding</a>
 			<button class="navbar-toggler hidden-md-up pull-xs-right" type="button" data-toggle="collapse" data-target=".js-collapse">
