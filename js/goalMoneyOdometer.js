@@ -18,14 +18,14 @@
 	.addTo(controller)
 	.addIndicators()
 	.on('start', () => {
-		$({ value: 0 }).animate({ value: 1500 }, {
+		$({ value: 0 }).animate({ value: 50 }, {
 			duration: 2000,
 			step: function(now, _){
 				$goalProgress.val(this.value);
 			},
 		});
 
-		goalOdometer.update(1500.001);
+		goalOdometer.update(50.001);
 
 		controller.destroy();
 	});

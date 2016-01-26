@@ -38,7 +38,7 @@
 				<div class="goal-status">
 					<h4>Total Arrecadado</h4>
 					<h2 class="text-success">R$ <span class="goal-display">0,001</span></h2>
-					<progress class="progress progress-success goal-progress" value="0" max="2000">500</progress>
+					<progress class="progress progress-success goal-progress" value="0" max="2200"></progress>
 				</div>
 
 				<div>
@@ -46,51 +46,9 @@
 					<ul class="list-group">
 						<li class="list-group-item">
 							<span class="label label-success label-pill pull-xs-right">
-								R$ 100,00
-							</span>
-							Zebu <small class="text-muted">10 minutos atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 150,00
-							</span>
-							Xupita <small class="text-muted">26 minutos atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
 								R$ 50,00
 							</span>
-							Pelado <small class="text-muted">1 hora atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 10,00
-							</span>
-							Valeska <small class="text-muted">1 hora atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 250,00
-							</span>
-							Phapha <small class="text-muted">3 horas atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 250,00
-							</span>
-							Phapha <small class="text-muted">3 horas atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 250,00
-							</span>
-							Phapha <small class="text-muted">3 horas atrás</small>
-						</li>
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 250,00
-							</span>
-							Phapha <small class="text-muted">3 horas atrás</small>
+							Zebu <small class="text-muted">1 mês atrás</small>
 						</li>
 					</ul>
 				</div>
