@@ -102,7 +102,7 @@ gulp.task('scripts', ['lint'], () => {
 
 // Images
 gulp.task('images', () => {
-	return gulp.src('img/**/*.png')
+	return gulp.src('img/**/*')
 		.pipe(plumber())
 		.pipe(gulpif(argv.production, imagemin({
 			progressive: true,
