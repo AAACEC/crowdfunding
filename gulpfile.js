@@ -126,6 +126,15 @@ gulp.task('templates', () => {
 		.pipe(notify({ message: 'Templates task complete', onLast: true }));
 });
 
+// Documents
+gulp.task('documents', () => {
+	return gulp.src('doc/**/*')
+		.pipe(plumber())
+		.pipe(gulp.dest('dist/doc'))
+		.pipe(livereload())
+		.pipe(notify({ message: 'Documents task complete', onLast: true }));
+});
+
 // Watch
 gulp.task('watch', () => {
 
@@ -141,11 +150,14 @@ gulp.task('watch', () => {
 	// Watch template files
 	gulp.watch(['swig/**/*.swig'], ['templates']);
 
+	// Watch document files
+	gulp.watch(['doc/**/*'], ['documents']);
+
 	// Create LiveReload server
 	livereload.listen({ basePath: 'dist' });
 });
 
 // Build
-gulp.task('build', ['styles', 'scripts', 'templates', 'images']);
+gulp.task('build', ['styles', 'scripts', 'templates', 'images', 'documents']);
 
 gulp.task('default', ['build', 'webserver', 'watch']);
