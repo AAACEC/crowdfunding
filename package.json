@@ -21,6 +21,7 @@
     "gulp-swig": "^0.8",
     "gulp-uglify": "^1.5",
     "gumshoe": "github:cferdinandi/gumshoe",
+    "imagemin-pngquant": "^4.2.0",
     "jquery": "^2.1.4",
     "lodash": "^3.10.1",
     "odometer": "^0.4.7",

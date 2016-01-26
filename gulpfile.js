@@ -17,6 +17,7 @@ let _ = require('lodash'),
 	cssnano = require('gulp-cssnano'),
 	plumber = require('gulp-plumber'),
 	imagemin = require('gulp-imagemin'),
+	pngquant = require('imagemin-pngquant'),
 	livereload = require('gulp-livereload'),
 	sourcemaps = require('gulp-sourcemaps'),
 	autoprefixer = require('gulp-autoprefixer'),
@@ -101,13 +102,13 @@ gulp.task('scripts', ['lint'], () => {
 
 // Images
 gulp.task('images', () => {
-	return gulp.src('img/**/*')
+	return gulp.src('img/**/*.png')
 		.pipe(plumber())
 		.pipe(gulpif(argv.production, imagemin({
-			optimizationLevel: 3,
 			progressive: true,
 			interlaced: true,
 			multipass: true,
+			use: [pngquant({speed: 1})],
 		})))
 		.pipe(gulp.dest('dist/img'))
 		.pipe(livereload())
