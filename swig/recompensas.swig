@@ -8,17 +8,17 @@
 			<div class="col-xs-12">
 				<div class="card-flex">
 					<div class="card card-block">
-							<div class="card-top">
-								<h4 class="card-title">Festa do Colar I</h4>
-								<h5 class="card-value text-muted">R$ 10,00</h5>
-								<p class="card-text">
-									O <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i>
-								</p>
-							</div>
-							<div class="card-bottom">
-								<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
-								<p class="card-text"><small class="text-muted">0 recebidos</small></p>
-							</div>
+						<div class="card-top">
+							<h4 class="card-title">Festa do Colar I</h4>
+							<h5 class="card-value text-muted">R$ 10,00</h5>
+							<p class="card-text">
+								O <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i>
+							</p>
+						</div>
+						<div class="card-bottom">
+							<button type="button" class="btn btn-primary pull-xs-right">Doar</button>
+							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+						</div>
 					</div>
 					<div class="card card-block">
 						<div class="card-top">
