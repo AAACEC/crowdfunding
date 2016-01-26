@@ -1,0 +1,17 @@
+footer {
+	padding: 1.5rem 0;
+
+	text-align: center;
+	font-size: .75rem;
+
+	background-color: darken($brand-primary, 5%);
+	color: #FFF;
+
+	p {
+		margin: 0;
+	}
+
+	a {
+		color: darken($brand-success, 5%);
+	}
+}

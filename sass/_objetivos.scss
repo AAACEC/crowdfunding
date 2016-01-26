@@ -1,0 +1,42 @@
+#objetivos {
+	.row > div {
+		align-self: center;
+	}
+}
+
+.goal {
+	margin-bottom: 1.5rem;
+}
+
+.goal-content {
+	> img {
+		width: 10rem;
+		float: left;
+		margin: .25rem .5rem 0 0;
+	}
+
+	> * {
+		text-align: justify;
+	}
+}
+
+@include media-breakpoint-down(xs) {
+	.goal-content {
+		> img {
+			width: 75%;
+			float: none;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+}
+
+.goal-status {
+	margin-bottom: 1.5rem;
+
+	.goal-display .odometer-inside {
+	  .odometer-digit:last-child {
+		  display: none
+		}
+	}
+}

@@ -1,0 +1,19 @@
+@import "variables";
+
+@import "node_modules/bootstrap/scss/bootstrap-flex";
+@import "node_modules/odometer/themes/odometer-theme-minimal";
+
+@import "base";
+
+@import "navbar";
+@import "section";
+@import "footer";
+
+@import "star";
+@import "card";
+@import "heart";
+@import "abbr-tooltip";
+
+@import "a-campanha";
+@import "objetivos";
+@import "recompensas";

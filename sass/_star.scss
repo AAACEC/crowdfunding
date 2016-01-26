@@ -1,0 +1,39 @@
+hr {
+	&.star-light,
+	&.star-primary {
+		margin: 1.5rem auto 2rem;
+		padding: 0;
+		max-width: 250px;
+		border: none;
+		border-top: solid .333rem;
+		text-align: center;
+
+		&:after {
+			content: '\f005';
+			display: inline-block;
+			position: relative;
+			top: -1.8rem;
+			padding: 0 .5rem;
+			font-family: FontAwesome;
+			font-size: 2rem
+		}
+	}
+
+	&.star-light {
+		border-color: #FFF;
+
+		&:after {
+			color: #FFF;
+			background-color: $brand-success;
+		}
+	}
+
+	&.star-primary {
+		border-color: $headings-color;
+
+		&:after {
+			color: $headings-color;
+			background-color: $body-bg;
+		}
+	}
+}
