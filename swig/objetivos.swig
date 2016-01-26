@@ -11,12 +11,10 @@
 					<div class="goal-content">
 						<img src="/img/100nossao.png" alt="" class="img-fluid img-rounded">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+							O 100Nossão é um dos símbolos da computação mais reconhecidos, dentro e fora da computação e da Unicamp. É quase como um filho para grande parte da gestão e ex-gestão da atlética. Por esses e outros motivos, nós não podemos deixa-lo de qualquer jeito, com riscos e mal acabado. Sendo assim, nós planejamos uma grande reforma da nossa criança:
+						</p>
+						<p>
+							Vamos substituir os dois subwoofers por woofers, trocar os dois tweeters e as duas cornetas por outros novinhos e refazer todo o visual do carrinho e do som em si, repintando-os e readesivando-os com o logo da atlética e o nome do brinquedo.
 						</p>
 					</div>
 				</div>
@@ -28,7 +26,7 @@
 						<p>
 							Um bandeirão grande, bonito e imponente é de suma importância no desenvolvimento da imagem de um curso e uma atlética fortes e bem estrutarados. É da beleza do bandeirão que todos os futuros bixos vão comentar quando relembrarem seu primeiro dia na faculdade. É da imagem do bandeirão que nosso adversários se lembrarão quando estiverem revivendo nossas vitórias. É da grandiosidade do bandeirão que nós mesmos vamos nos orgulhar quando olharmos para trás, para tudo que realizamos.
 						</p>
-							
+
 						<p>
 							Mas, pra tudo isso, o bandeirão tem que ser de fato grande, bonito e imponente. Com mais de 4 metros de largura e altura, um design arrojado em tecido preto e costurado com tecidos branco e vermelho, exibindo nosso símbolo e nossa força, nós temos certeza de que alcançaremos esse objetivo.
 						</p>
