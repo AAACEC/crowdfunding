@@ -168,7 +168,3 @@
 		</div>
 	</div>
 </section>
-
-
-
-
