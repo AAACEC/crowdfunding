@@ -9,7 +9,7 @@
 				<div class="card-flex">
 					<div class="card card-block">
 						<div class="card-top">
-							<h4 class="card-title">Macarena I</h4>
+							<h4 class="card-title">Ragatanga I</h4>
 							<h5 class="card-value text-muted">R$ 10,00</h5>
 							<p class="card-text">
 								O <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i>
@@ -22,7 +22,7 @@
 					</div>
 					<div class="card card-block">
 						<div class="card-top">
-							<h4 class="card-title">Macarena II</h4>
+							<h4 class="card-title">Ragatanga II</h4>
 							<h5 class="card-value text-muted">R$ 25,00</h5>
 							<p class="card-text">
 								<span class="text-muted">Todos os anteriores</span> mais um chaveiro edição especial do 100Nossão.
@@ -35,7 +35,7 @@
 					</div>
 					<div class="card card-block">
 						<div class="card-top">
-							<h4 class="card-title">Macarena III</h4>
+							<h4 class="card-title">Ragatanga III</h4>
 							<h5 class="card-value text-muted">R$ 50,00</h5>
 							<p class="card-text">
                                 <span class="text-muted">Todos os anteriores</span> mais uma caneca e tirante edição especial do 100Nossão.
@@ -43,12 +43,12 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted">1 recebidos</small></p>
 						</div>
 					</div>
 					<div class="card card-block">
 						<div class="card-top">
-							<h4 class="card-title">Macarena IV</h4>
+							<h4 class="card-title">Ragatanga IV</h4>
 							<h5 class="card-value text-muted">R$ 75,00</h5>
 							<p class="card-text">
 								Uma camiseta edição especial do 100Nossão e <span class="text-muted">o <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i></span>
