@@ -43,7 +43,7 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted">1 recebidos</small></p>
 						</div>
 					</div>
 					<div class="card card-block">
