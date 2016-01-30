@@ -155,7 +155,7 @@
 							<h4 class="card-title">Corpo Nu IV</h4>
 							<h5 class="card-value text-muted">R$ 1000,00</h5>
 							<p class="card-text">
-                                <span class="text-muted">Todos os anteriores</span> e, além de sua miniatura do 100Nossão ser maior e música através de bluetooth, você pode escolher o nome de um drink para a Choppada.
+                                <span class="text-muted">Todos os anteriores</span> e, além de sua miniatura do 100Nossão ser maior e tocar música através de bluetooth, você pode escolher o nome de um drink para a Choppada.
 							</p>
 						</div>
 						<div class="card-bottom">
