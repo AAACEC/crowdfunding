@@ -53,7 +53,7 @@
 			$rewards.each(function () {
 				let $this = $(this);
 
-				if ($this.data('minValue') < v.value) {
+				if ($this.data('minValue') <= v.value) {
 					let $rcvd = $this.find('.js-received');
 					$rcvd.text(parseInt($rcvd.text()) + 1);
 
