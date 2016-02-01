@@ -3,8 +3,9 @@
 	<head>
 		<!-- Required meta tags always come first -->
 		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>AAACEC Crowdfunding - Faça a diferença!</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
