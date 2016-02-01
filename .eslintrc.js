@@ -3,7 +3,7 @@ module.exports = {
 		// Possible Errors
 		'comma-dangle': [2, 'always-multiline'],
 		'no-cond-assign': [2, 'except-parens'],
-		'no-console': 2,
+		'no-console': 1,
 		'no-constant-condition': 2,
 		'no-control-regex': 2,
 		'no-debugger': 2,

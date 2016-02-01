@@ -1,3 +1,4 @@
+/* eslint strict: [2, "global"] */
 'use strict';
 
 let _ = require('lodash'),
