@@ -6,10 +6,10 @@
 				<h1>A Campanha</h1>
 				<hr class="star-light">
 				<p class="lead">
-					Como alguns de vocês já devem saber, o nosso amado, adorado e eterno carrinho de som, o 100Nossão, está um tanto judiado depois de um vários anos e muitas festas. Tendo completado seu 11º aniversário na metade do ano passado, achamos que já está mais do que na hora de dar um tapa no filhão, comprar caixas de som novas, trocar os adesivos e deixar ele 100% pra 2016. Além disso, temos como meta produzir um novo bandeirão bonitão pra fazer os bixos entenderem o que é a Comp na hora que pisarem nessa Unicamp.
+					Como alguns de vocês já devem saber, o nosso amado, adorado e eterno carrinho de som, o 100Nossão, está um tanto judiado depois vários anos e muitos eventos. Tendo completado seu 11º aniversário na metade do ano passado, achamos que já está mais do que na hora de dar uma reformada nele, comprar caixas de som novas, trocar os adesivos e deixá-lo 100% pra recepção d*s bixetes/bixos 016. Além disso, já está mais do que na hora de termos um novo bandeirão para o nosso curso! Portanto, além da reforma do 100Nossão, colocamos como meta produzir um bandeirão de respeito pra que noss*s bixetes/bixos entendam o que é a Comp na hora que pisarem na Unicamp!
 				</p>
 				<p class="lead">
-					Maaaas, pra vocês que pensam que hoje a Atlética é ryca... se enganaram! Por isso cá estamos pedindo a ajuda de vocês pra bater a meta de R$2200 o mais rápido possível, já mandar fazer o bandeirão, trocar as caixas de som, pintar e re-adesivar o 100Nossão e fazer com que a recepção dos bixos esse ano seja insana! Leiam mais detalhes no <a href="/doc/crowdfunding.pdf">PDF</a> do nosso projeto.
+					Maaaas, pra vocês que pensam que hoje a Atlética é ryca... se enganaram! Com a AAACEC carregando a parte financeira da Liga CEM acabamos fechando o ano no talo. Mas nããão nos deixamos abalar e queremos fazer uma recepção in-sa-na pros bixos desse ano. Pra ela ficar ainda melhor precisamos da ajuda de todo mundo. Tanto membros e ex-membros da atlética como aquela galera que sempre esteve conosco estão mais do que convidados a ajudar a gente com o que puderem pra fazer um bandeirão de respeito e deixar o 100Nossão lindo de bonito! Nossa meta é bater R$2500 em doações até o fim das férias e contamos com toda a comunidade computeira pra que isso role! Leiam mais detalhes no <a href="/doc/crowdfunding.pdf">PDF</a> do nosso projeto.
 				</p>
 			</div>
 		</div>
