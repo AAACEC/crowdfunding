@@ -7,7 +7,7 @@
 			</div>
 			<div class="col-xs-12">
 				<div class="card-flex">
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="10">
 						<div class="card-top">
 							<h4 class="card-title">Ragatanga I</h4>
 							<h5 class="card-value text-muted">R$ 10,00</h5>
@@ -17,10 +17,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="25">
 						<div class="card-top">
 							<h4 class="card-title">Ragatanga II</h4>
 							<h5 class="card-value text-muted">R$ 25,00</h5>
@@ -30,10 +30,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="50">
 						<div class="card-top">
 							<h4 class="card-title">Ragatanga III</h4>
 							<h5 class="card-value text-muted">R$ 50,00</h5>
@@ -43,10 +43,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">1 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="75">
 						<div class="card-top">
 							<h4 class="card-title">Ragatanga IV</h4>
 							<h5 class="card-value text-muted">R$ 75,00</h5>
@@ -56,10 +56,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="100">
 						<div class="card-top">
 							<h4 class="card-title">Renata I</h4>
 							<h5 class="card-value text-muted">R$ 100,00</h5>
@@ -69,10 +69,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="200">
 						<div class="card-top">
 							<h4 class="card-title">Renata II</h4>
 							<h5 class="card-value text-muted">R$ 200,00</h5>
@@ -82,10 +82,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="300">
 						<div class="card-top">
 							<h4 class="card-title">Renata III</h4>
 							<h5 class="card-value text-muted">R$ 300,00</h5>
@@ -95,10 +95,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="400">
 						<div class="card-top">
 							<h4 class="card-title">Renata IV</h4>
 							<h5 class="card-value text-muted">R$ 400,00</h5>
@@ -108,10 +108,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="500">
 						<div class="card-top">
 							<h4 class="card-title">Corpo Nu I</h4>
 							<h5 class="card-value text-muted">R$ 500,00</h5>
@@ -121,10 +121,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="600">
 						<div class="card-top">
 							<h4 class="card-title">Corpo Nu II</h4>
 							<h5 class="card-value text-muted">R$ 600,00</h5>
@@ -134,10 +134,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="800">
 						<div class="card-top">
 							<h4 class="card-title">Corpo Nu III</h4>
 							<h5 class="card-value text-muted">R$ 800,00</h5>
@@ -147,10 +147,10 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
-					<div class="card card-block">
+					<div class="card card-block js-reward" data-min-value="1000">
 						<div class="card-top">
 							<h4 class="card-title">Corpo Nu IV</h4>
 							<h5 class="card-value text-muted">R$ 1000,00</h5>
@@ -160,7 +160,7 @@
 						</div>
 						<div class="card-bottom">
 							<button type="button" class="btn btn-primary pull-xs-right js-btn-donate">Doar</button>
-							<p class="card-text"><small class="text-muted">0 recebidos</small></p>
+							<p class="card-text"><small class="text-muted"><span class="js-received">0</span> recebidos</small></p>
 						</div>
 					</div>
 				</div>

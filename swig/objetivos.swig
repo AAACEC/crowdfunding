@@ -44,12 +44,7 @@
 				<div>
 					<h4>Últimas Doações</h4>
 					<ul class="list-group">
-						<li class="list-group-item">
-							<span class="label label-success label-pill pull-xs-right">
-								R$ 50,00
-							</span>
-							Zebu <small class="text-muted">1 mês atrás</small>
-						</li>
+						<!-- populated dynamically -->
 					</ul>
 				</div>
 			</div>

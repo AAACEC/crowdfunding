@@ -33,6 +33,8 @@ const vendor = {
 		'node_modules/smooth-scroll/dist/js/smooth-scroll.js',
 		'node_modules/tether/dist/js/tether.js',
 		'node_modules/bootstrap/dist/js/bootstrap.js',
+		'node_modules/moment/moment.js',
+		'node_modules/moment/locale/pt-br.js',
 	],
 
 	styles: [
