@@ -11,7 +11,7 @@
 					<div class="goal-content">
 						<img src="/img/100nossao.png" alt="" class="img-fluid img-rounded">
 						<p>
-							O 100Nossão é um dos símbolos da computação mais reconhecidos, dentro e fora da computação e da Unicamp. É quase como um filho para grande parte da gestão e ex-gestão da atlética. Por esses e outros motivos, nós não podemos deixa-lo de qualquer jeito, com riscos e mal acabado. Sendo assim, nós planejamos uma grande reforma da nossa criança:
+							O 100Nossão é um dos símbolos da computação mais reconhecidos, dentro e fora da computação e da Unicamp. É quase como um filho para grande parte da gestão e ex-gestão da atlética e um ídolo para tod*s *s computeir*s de Barão. Por esses e outros motivos, nós não podemos deixá-lo de qualquer jeito, com riscos e mal acabado. Sendo assim, nós planejamos uma grande reforma da nossa criança:
 						</p>
 						<p>
 							Vamos substituir os dois subwoofers por woofers, trocar os dois tweeters e as duas cornetas por outros novinhos e refazer todo o visual do carrinho e do som em si, repintando-os e readesivando-os com o logo da atlética e o nome do brinquedo.
@@ -38,7 +38,7 @@
 				<div class="goal-status">
 					<h4>Total Arrecadado</h4>
 					<h2 class="text-success">R$ <span class="goal-display">0,001</span></h2>
-					<progress class="progress progress-success goal-progress" value="0" max="2200"></progress>
+					<progress class="progress progress-success goal-progress" value="0" max="2500"></progress>
 				</div>
 
 				<div>
