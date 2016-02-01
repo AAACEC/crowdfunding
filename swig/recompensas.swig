@@ -12,7 +12,7 @@
 							<h4 class="card-title">Ragatanga I</h4>
 							<h5 class="card-value text-muted">R$ 10,00</h5>
 							<p class="card-text">
-								O <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i>
+								O <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama.
 							</p>
 						</div>
 						<div class="card-bottom">
@@ -51,7 +51,7 @@
 							<h4 class="card-title">Ragatanga IV</h4>
 							<h5 class="card-value text-muted">R$ 75,00</h5>
 							<p class="card-text">
-								Uma camiseta edição especial do 100Nossão e <span class="text-muted">o <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i></span>
+								Uma camiseta edição especial do 100Nossão e <span class="text-muted">o <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama.</span>
 							</p>
 						</div>
 						<div class="card-bottom">
@@ -64,7 +64,7 @@
 							<h4 class="card-title">Renata I</h4>
 							<h5 class="card-value text-muted">R$ 100,00</h5>
 							<p class="card-text">
-								O kit completo edição especial do 100Nossão, com chaveiro, caneca e tirante e camiseta e <span class="text-muted">o <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama. <i class="fa fa-heart"></i></span>
+								O kit completo edição especial do 100Nossão, com chaveiro, caneca e tirante e camiseta e <span class="text-muted">o <span class="abbr-tooltip">Xupita</span> irá diretamente à sua timeline do Facebook e postará que te ama.</span>
 							</p>
 						</div>
 						<div class="card-bottom">
