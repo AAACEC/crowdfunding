@@ -41,7 +41,7 @@ const vendor = {
 };
 
 function isVendorScript(f) {
-	return _.any(vendor.scripts, (v) => {
+	return _.some(vendor.scripts, (v) => {
 		return f.path.replace(/\\/g, '/').endsWith(v);
 	});
 }
