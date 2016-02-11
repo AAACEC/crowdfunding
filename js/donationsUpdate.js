@@ -34,8 +34,6 @@
 			return b.time - a.time;
 		});
 
-		console.log(arrDonations);
-
 		arrDonations.forEach(function (v, i) {
 			totalDonated += v.value;
 
